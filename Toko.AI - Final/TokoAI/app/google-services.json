@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238506496443",
+    "project_id": "tokoai",
+    "storage_bucket": "tokoai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238506496443:android:f023a83179735e6cb8f49e",
+        "android_client_info": {
+          "package_name": "com.project.tokoai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238506496443-co29v1t57unl44hatmgnibh77a9u68st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2WbqCTrLQ4bM7_9hrN_JCbKfNmBb7ZRU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238506496443-co29v1t57unl44hatmgnibh77a9u68st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
